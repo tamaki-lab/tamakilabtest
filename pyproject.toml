@@ -1,8 +1,5 @@
 [project]
-name = "site_requests"
+name = "kato_requests"
 version = "0.0.1"
 
-dependencies =  [
-    "bs4 == 0.0.1",
-    "requests >= 2.28.2",
-]
+
