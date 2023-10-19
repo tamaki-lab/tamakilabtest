@@ -10,3 +10,24 @@ aggressive = 2
 [tool.black]
 # https://black.readthedocs.io/en/stable/usage_and_configuration/the_basics.html#configuration-format
 line-length = 120
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "average-meter"
+version = "0.0.1"
+authors = [{ name = "Toru Tamaki", email = "tamaki.toru@nitech.ac.jp" }]
+description = "Average meter for logging accurary and loss"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/tamaki-lab/tamakilabtest/tree/tamaki"
+"Bug Tracker" = "https://github.com/tamaki-lab/tamakilabtest/issues"
