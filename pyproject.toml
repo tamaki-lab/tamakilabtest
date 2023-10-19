@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "nitta"
 version = "0.0.1"
 authors = [
-  { name="Example Author", email="author@example.com" },
+  { name="Tomoya Nitta", email="clp14108@nitech.jp" },
 ]
 description = "A small example package"
 readme = "README.md"
