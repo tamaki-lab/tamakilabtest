@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/average_meter.py
+src/average_meter.egg-info/PKG-INFO
+src/average_meter.egg-info/SOURCES.txt
+src/average_meter.egg-info/dependency_links.txt
+src/average_meter.egg-info/top_level.txt

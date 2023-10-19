@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: average-meter
+Version: 0.0.1
+Summary: Average meter for logging accurary and loss
+Author-email: Toru Tamaki <tamaki.toru@nitech.ac.jp>
+Project-URL: Homepage, https://github.com/tamaki-lab/tamakilabtest/tree/tamaki
+Project-URL: Bug Tracker, https://github.com/tamaki-lab/tamakilabtest/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pipインストールするパッケージ作成用テストリポジトリ
+
+
+参考：
+
+- https://packaging.python.org/en/latest/
+- https://packaging.python.org/ja/latest/
