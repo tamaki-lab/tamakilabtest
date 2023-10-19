@@ -17,7 +17,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "averagemeter"
-version = "0.0.2"
+version = "0.0.3"
 authors = [{ name = "Toru Tamaki", email = "tamaki.toru@nitech.ac.jp" }]
 description = "Average meter for logging accurary and loss"
 readme = "README.md"
