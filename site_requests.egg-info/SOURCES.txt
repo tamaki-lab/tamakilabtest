@@ -1,0 +1,8 @@
+README.md
+mizuno_1.py
+pyproject.toml
+site_requests.egg-info/PKG-INFO
+site_requests.egg-info/SOURCES.txt
+site_requests.egg-info/dependency_links.txt
+site_requests.egg-info/requires.txt
+site_requests.egg-info/top_level.txt
